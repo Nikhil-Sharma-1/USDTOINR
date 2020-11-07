@@ -5,4 +5,4 @@
 <hr>
 
 # App in Action
-[View App in Action Here](https://www.linkedin.com/feed/update/urn:li:activity:6721870213295484928/)
+[View App in Action Here](https://www.linkedin.com/posts/nikhil-sharma-6092a81a2_android-androiddevelopment-appdevelopment-activity-6730865614308589568-vrNp)
